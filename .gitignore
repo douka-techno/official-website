@@ -7,6 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 /node_modules/
+/.next/
+/.idea/
+/.vscode/
+/.genkit/
 
 node_modules
 .DS_Store
@@ -26,6 +30,10 @@ coverage
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw
+.next
+.idea
+.vscode
+.genkit
 
 *.tsbuildinfo
